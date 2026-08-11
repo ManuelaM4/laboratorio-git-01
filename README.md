@@ -7,3 +7,5 @@ Primer laboratorio de la asignatura de Ingeniería de Software l
 Manejo de Github
 
 Emplear las herramientas que brinda github
+
+Creación de la rama
