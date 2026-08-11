@@ -5,3 +5,5 @@ Mi nombre es Manuela Mican Vargas, tengo 19 años, actualmente soy estudiante de
 Primer laboratorio de la asignatura de Ingeniería de Software l
 
 Manejo de Github
+
+Emplear las herramientas que brinda github
